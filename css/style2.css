@@ -1,0 +1,233 @@
+body{
+	font-family:arial;
+
+}
+
+.body01{
+	
+	background-image: url("../img/fundobranco.webp");
+}
+
+table {
+	margin: 0 0 0 0;
+
+}
+
+.container{
+	position:relative;
+	left: 30%;
+	top:5%;
+	margin:1px;
+	width: 550px;
+	padding:5em;
+}
+
+
+#opcriar{
+	position: relative;
+	left: 35%;
+}
+
+.table-hover{
+	position:relative;
+	left: 5%;
+	right: 5%;
+	width: 580px;
+}
+
+#tbaluno{
+	position: relative;
+	left: 5%;
+	right: 5%;
+}
+
+.form-signin-heading{
+	padding-left:25%;
+	padding-bottom:5%;
+	font-weight:bold;
+}
+
+#esqsenha{
+	font-family: lucida;
+	font-size: 12px;
+	position:relative;
+	left:55%;
+	
+	padding:10px;
+}
+
+#input{ 
+	padding: 10px;
+	border-radius: 2px;
+	width: 300px;
+	height:40px;
+	position:relative;
+	left:10%;
+}
+
+#btn-entrar{
+	padding:10px;
+	border-radius:2px;
+	width: 300px;
+	height:60px;
+	position: relative;
+	left: 10%;
+	top: 80%;
+}
+
+#errologin{
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	text-align:center;
+}
+
+#tbbotoes{
+	margin-left: 36%;
+}
+
+
+.table{
+	margin-left: 30%;
+	margin-right: 5%;
+}
+
+#logoutadm{
+	position: relative;
+	left: 55.7%;
+	width: 90px;
+}
+
+#logoutprof{
+	position: relative;
+	left: 30%;
+	margin-bottom: 10px;
+	width: 90px;
+}
+
+#logoutaluno{
+	position: relative;
+	left: 25%;
+	margin-bottom: 10px;
+	width: 90px;
+}
+
+#altersenhaprof{
+	position: relative;
+	left: 315%;
+	margin-bottom: 10px;
+	height: 34px;
+}
+
+#altersenhaaluno{
+	position: relative;
+	left: 389%;
+	margin-bottom: 10px;
+	height: 33px;
+	height: 34px;
+}
+
+#btnprof{
+	position: relative;
+	left: 58%;
+}
+
+.btn-default{
+	background-color: #e93d50;
+	color: white;
+}
+
+.h1, h1{
+	font-size: 32px;
+	position: relative;
+	right: 3%;
+}
+
+.h2, h2{
+	margin-bottom: 60px;
+}
+
+#formgroup1{
+	width: 300px;
+	position: relative;
+	left: 35%;
+}
+
+#formgroup2{
+	width: 300px;
+	position: relative;
+	left: 20%;
+}
+
+#formgroup3{
+	width: 300px;
+	position: relative;
+	left: 20%;
+}
+
+#tipo1{
+	left: 70%;
+}
+#modalfooter1{
+	position: relative;
+	left: 1%;
+}
+
+#indexfooter{
+	margin-top: 190px;
+}
+
+#inline1{
+	position: relative;
+	left: 29px;
+}
+
+#inline2{
+	position: relative;
+	left: 85px;
+}
+
+hr{
+	border-style: inset;
+	border-width: 1px;
+}
+
+#adicionarprof{
+	font-size: 10px;
+	width: 50px;
+	height: 23px;
+	padding: 0px;
+}
+
+.texto-rodape-direitos{
+  font-size: 12px;
+  color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.caixa_texto_rodape{
+	background-color: #e93d50;  
+	width: 60%;
+	margin-left: 20%;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	border-color: #e93d50;       
+  }
+
+  .texto-titulo-tabela{
+	font-size: 18px;
+  font-family: Arial black;
+  margin-left: 30%;
+  text-decoration: wavy;
+  
+  }
+
+  .linha5{
+	color:rgb(226, 224, 224);
+   width: 100%;
+   margin-left: 30%;
+  }
+

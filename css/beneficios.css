@@ -1,0 +1,320 @@
+.beneficios {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding: 0 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.beneficios__titulo {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.beneficios__lista li {
+    padding-top: 5.5rem;
+    background-repeat: no-repeat;
+    background-size: 4rem 4rem;
+    background-position: top 20px center;
+}
+
+/*beneficios "cordas"*/
+
+.beneficio--cordas1 {
+    background-image: url(../img/citara.png);
+}
+
+.beneficio--cordas2 {
+    background-image: url(../img/balalaika.png);
+}
+
+.beneficio--cordas3 {
+    background-image: url(../img/banjo.png);
+}
+
+.beneficio--cordas4 {
+    background-image: url(../img/guitarra.png);
+}
+
+
+/*beneficios "percussao"*/
+
+.beneficio--percussao1 {
+    background-image: url(../img/tambor.png);
+}
+
+.beneficio--percussao2 {
+    background-image: url(../img/pandeiro.png);
+}
+
+.beneficio--percussao3 {
+    background-image: url(../img/tambor1.png);
+}
+
+.beneficio--percussao4 {
+    background-image: url(../img/pandeiro2.png);
+}
+
+
+/*beneficios "saxofone"*/
+
+.beneficio--saxofone1 {
+    background-image: url(../img/saxofone.png);
+}
+
+.beneficio--saxofone2 {
+    background-image: url(../img/musico.png);
+}
+
+.beneficio--saxofone3 {
+    background-image: url(../img/jazz-ska.png);
+}
+
+.beneficio--saxofone4 {
+    background-image: url(../img/saxofone3.png);
+}
+
+
+/*beneficios "baixo"*/
+
+.beneficio--baixo1 {
+    background-image: url(../img/guitar22.png);
+}
+
+.beneficio--baixo2 {
+    background-image: url(../img/book.png);
+}
+
+.beneficio--baixo3 {
+    background-image: url(../img/guitar-pedal.png);
+}
+
+.beneficio--baixo4 {
+    background-image: url(../img/headstock.png);
+}
+
+
+
+
+/*beneficios "canto"*/
+
+.beneficio--canto1 {
+    background-image: url(../img/karaoke.png);
+}
+
+.beneficio--canto2 {
+    background-image: url(../img/cantor.png);
+}
+
+.beneficio--canto3 {
+    background-image: url(../img/cantando.png);
+}
+
+.beneficio--canto4 {
+    background-image: url(../img/microphone.png);
+}
+
+
+
+/*beneficios "teoria"*/
+
+.beneficio--teoria1 {
+    background-image: url(../img/estante-de-musica.png);
+}
+
+.beneficio--teoria2 {
+    background-image: url(../img/audio-livro2.png);
+}
+
+.beneficio--teoria3 {
+    background-image: url(../img/audio-livro3.png);
+}
+
+.beneficio--teoria4 {
+    background-image: url(../img/arquivo-de-musica.png);
+}
+
+
+
+/*beneficios "guitarra"*/
+
+.beneficio--guitarra1 {
+    background-image: url(../img/violao-classico.png);
+}
+
+.beneficio--guitarra2 {
+    background-image: url(../img/violao.png);
+}
+
+.beneficio--guitarra3 {
+    background-image: url(../img/guitarra-eletrica.png);
+}
+
+.beneficio--guitarra4 {
+    background-image: url(../img/guitarra-eletrica\(1\).png);
+}
+
+
+
+/*beneficios "audio"*/
+
+.beneficio--audio1 {
+    background-image: url(../img/cd\(1\).png);
+}
+
+.beneficio--audio2 {
+    background-image: url(../img/ondas-de-audio.png);
+}
+
+.beneficio--audio3 {
+    background-image: url(../img/podcast.png);
+}
+
+.beneficio--audio4 {
+    background-image: url(../img/audio-livro.png);
+}
+
+
+
+
+/*beneficios "teclado"*/
+
+.beneficio--teclado1 {
+    background-image: url(../img/piano.png);
+}
+
+.beneficio--teclado2 {
+    background-image: url(../img/piano2.png);
+}
+
+.beneficio--teclado3 {
+    background-image: url(../img/piano3.png);
+}
+
+.beneficio--teclado4 {
+    background-image: url(../img/sintetizador.png);
+}
+
+
+
+
+
+/*beneficios "bateria"*/
+
+.beneficio--bateria1 {
+    background-image: url(../img/prato.png);
+}
+
+.beneficio--bateria2 {
+    background-image: url(../img/oi-chapeu.png);
+}
+
+.beneficio--bateria3 {
+    background-image: url(../img/baqueta.png);
+}
+
+.beneficio--bateria4 {
+    background-image: url(../img/bateria2.png);
+}
+
+
+
+
+/*beneficios "sobre nos"*/
+
+.beneficio--local {
+    background-image: url(../img/espacos-reservados.png);
+}
+
+.beneficio--cursos {
+    background-image: url(../img/notas-musicais.png);
+}
+
+.beneficio--contato {
+    background-image: url(../img/phonecall.png);
+}
+
+
+.beneficio--data {
+    background-image: url(../img/calendario.png);
+}
+
+/*beneficios index*/
+
+.beneficio--paravoce {
+    background-image: url(../img/icone-beneficios-tudo-para-voce.svg);
+}
+
+.beneficio--duvidas {
+    background-image: url(../img/icone-beneficios-nenhuma-duvida.svg);
+}
+
+.beneficio--didatica {
+    background-image: url(../img/icone-beneficios-didatica-cuidadosa.svg);
+}
+
+.beneficio--online {
+    background-image: url(../img/icone-beneficios-online.svg);
+}
+
+.beneficio__titulo {
+    font-size: .8rem;
+    font-weight: 600;
+    margin-top: 1rem;
+    margin-bottom: .2rem;
+}
+
+.beneficio__texto {
+    line-height: 1rem;
+}
+
+@media(min-width:768px) {
+    .beneficios {
+        margin-bottom: 3.7rem;
+    }
+
+    .beneficios__lista {
+        display: grid;
+        grid-template-areas: 17.5rem 17.5rem;
+        gap: 1rem
+    }
+
+    .beneficios__titulo {
+        margin-bottom: 1rem;
+    }
+
+    .beneficio__titulo {
+        font-size: 1.1rem;
+    }
+
+    .beneficio__texto {
+        font-size: .8rem;
+    }
+}
+
+@media(min-width:1200px) {
+    .beneficio__titulo {
+        font-size: 1.3rem;
+    }
+
+    .beneficios__lista {
+        gap: 1.3rem;
+        grid-template-columns: 22.5rem 22.5rem;
+    }
+
+    .beneficios__lista li {
+        padding-top: 7.25rem;
+        background-size: 6rem 6rem;
+    }
+
+    .beneficio__titulo {
+        font-size: 1.2rem;
+        margin-bottom: .6rem;
+    }
+
+    .beneficio__texto {
+        font-size: .9rem;
+        line-height: 1.2rem;
+    }
+}

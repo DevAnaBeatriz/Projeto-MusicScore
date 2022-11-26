@@ -1,0 +1,187 @@
+.fundo{
+
+  background-image: url(../img/fundobranco.webp);
+  background-size: cover;
+  width: 100%;
+  height: 50%;
+    }
+
+ .imagem_curso{
+        margin-left: 15%;
+        margin-top: 5%;
+
+ }   
+
+ .titulo-curso{
+    font-size: 23pt;
+ 
+    color:#f76148;
+    font-family: Arial black;
+    text-align: justify;
+    justify-content: space-around;
+}  
+
+.cabecalho_tambor{
+    background-color: #3c4f79;
+
+background-size: cover;
+border-style: dashed; 
+border-color: #f76148;
+border: 10px;
+
+
+}
+
+.linha{
+  margin-left: 10%;
+  color:#ffffff;
+   width: 80%;
+}
+
+.linha2{
+  color:#f76148;
+   width: 80%;
+   margin-left: 10%;
+}
+
+.linha3{
+    color:#ffffff;
+     width: 100%;
+
+     border-style: dashed;
+  }
+   
+  .caixa_texto2{
+
+    width: 100%;
+    height: 100%;
+  
+    border-radius: 1%;
+
+  
+    padding-top: 5.5rem;
+    background-repeat: no-repeat;
+    background-size: 4rem 4rem;
+    background-position: top 20px center;
+
+  }
+
+.caixa_texto{
+  background-color: #f76148;
+  width: 100%;
+  height: 50%;
+
+  border-radius: 1%;
+  border-color: #f76148;
+
+  padding-top: 5.5rem;
+  background-repeat: no-repeat;
+  background-size: 4rem 4rem;
+  background-position: top 20px center;
+ 
+ 
+
+}
+
+.texto-destaque-sobre2{
+  font-size: 22px;
+  color: black;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: match-parent;
+}
+
+.titulo-sobre{
+  color: #16161d;
+  font-size: 24pt;
+  text-decoration:solid;
+  font-family: Arial black;
+}
+
+.texto-destaque-sobre3{
+    text-align: center;
+    color: #ffffff;
+    font-size: 24pt;
+    text-decoration:solid;
+    font-family: Arial rgb(255, 255, 255);
+  }
+
+    .texto-destaque {
+        text-align: center;
+    }
+    .texto-destaque strong {
+        color: #ffffff;
+    }
+    .texto-destaque {       
+        font-size: 30px;
+        
+        color: #ffffff;
+        
+    }
+    .texto-destaque-sobre {
+        font-size: 22px;
+        color: #ffffff;
+        margin-left: 5%;
+        margin-right: 5%;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: match-parent;
+    }
+    
+    .col-3 {
+        text-align: center;
+        padding-left: 15px;
+        padding-right: 15px; 
+        width: 29%;
+        float: left;
+        position: relative;
+    }
+    .bloco-imagem img {
+        margin: 0 auto;
+        width: 100%;
+        height: auto;
+    }
+    .bloco-imagem {
+        height: 300px;
+        border: 1px solid #272727;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        margin-left: 10px;
+    }
+  
+    .bloco-texto {
+        margin-top: 3em;
+    }
+    
+
+    
+    .bloco-imagens-texto {
+        background-color: #272727;
+    }
+    .bloco-imagens-texto:before {
+        width: 100%;
+        display: inline-block;
+        content: '';
+        height: 52px;
+        background: #272727;
+        background-image: url('../img/Nmap/setinha.png');
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .bloco-imagens-texto:after {
+        width: 100%;
+        display: inline-block;
+        content: '';
+        height: 70px;
+        background: #272727;
+    } 
+  
+    
+    .sobre {
+      text-align: center;
+      margin-bottom: 2rem;
+      padding: 0 10%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
